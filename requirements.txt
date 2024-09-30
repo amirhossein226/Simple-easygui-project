@@ -1,3 +1,5 @@
 easygui==0.98.3
 PyPDF2==3.0.1
 
+easygui==0.98.3
+PyPDF2==3.0.1
